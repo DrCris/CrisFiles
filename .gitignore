@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/DjangoPrac/virt_env
+/DjangoPrac/v_env/Lib/site-packages/pip/_internal/cli
+/DjangoPrac/v_env/Lib/site-packages/pip/_internal/commands
+/DjangoPrac/v_env
+/DjangoPrac/env
+/v_env
